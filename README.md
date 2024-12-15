@@ -46,4 +46,4 @@ Feel free to reach out to me via my email: **oammar@outlook.sa**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/0ammar/Jordan-Ad-Hub.git
+   git clone https://github.com/0ammar/JordanAdHub.git
