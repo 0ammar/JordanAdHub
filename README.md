@@ -1,4 +1,4 @@
-<i class="fa fa-cogs"></i> Jordan Ad Hub
+# ![Icon](https://cdn.iconify.design/fa-solid/cogs.svg) Jordan Ad Hub
 
 Welcome to the **Jordan Ad Hub** project! This is a front-end website I developed as part of a task project for an advertisement platform, designed for government-related job postings and public tenders. It serves as a portal for various categories like jobs, tenders, vacancies, economy, tourism, IT, and education.
 
